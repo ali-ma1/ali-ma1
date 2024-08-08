@@ -7,4 +7,14 @@
 
 # Major Projects So Far
 
-## Not yet Added
+## 2024
+
+- [GenAI Web-Scrape BBC Title Generator](www.google.ae), An Advanced Seq-to-Seq Model Enhanced with Web Scraping to Generate More Accurate and Captivating Article Titles.
+- [Cancer & COVID Detection via CNN](www.google.ae), Utilizing Convolutional Neural Networks to Analyze X-rays for Precise Cancer and COVID Detection.
+- [Dubai Property Nearest Metro Prediction](www.google.ae), Predicting the Closest Metro Stations and Visualizing Properties on an Interactive Dubai Map.
+  
+## 2023
+
+- [Virtufit Capstone AI Application](www.google.ae), Leveraging NLP and Chatbot Technology to Tailor Fitness Plans, with Real-Time Form Monitoring Using Advanced Joint and Limb Detection.
+- [Advanced Data Analysis and Time Series Forecasting](www.google.ae), Comprehensive Data Analysis Including Trends, Seasonality, and Advanced Time Series Forecasting.
+- [Data Analysis and Clustering of Adults Dataset](www.google.ae), Using Popular R Libraries to Analyze Data and Apply Advanced Clustering Techniques.
