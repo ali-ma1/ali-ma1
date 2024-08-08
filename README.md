@@ -11,7 +11,7 @@
 
 - [GenAI Web-Scrape BBC Title Generator](www.google.ae), An Advanced Seq-to-Seq Model Enhanced with Web Scraping to Generate More Accurate and Captivating Article Titles.
 - [Cancer & COVID Detection via CNN](www.google.ae), Utilizing Convolutional Neural Networks to Analyze X-rays for Precise Cancer and COVID Detection.
-- [Dubai Property Nearest Metro Prediction](www.google.ae), Predicting the Closest Metro Stations and Visualizing Properties on an Interactive Dubai Map.
+- [Dubai Property Nearest Metro Prediction](www.google.ae), Predicting the Closest Metro Stations and Visualizing Properties on a Detailed Dubai Map.
   
 ## 2023
 
