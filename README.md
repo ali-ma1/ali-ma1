@@ -1,9 +1,14 @@
 # WELCOME!
 > My name is Ali Mela Ali!
+
 > An aspiring AI and Data Science enthusiast with a strong foundation in predictive modeling, computer vision, and generative AI, complemented by hands-on experience in data analysis and machine learning.
+
 > I've developed a range of innovative projects, from sequence-to-sequence models for title generation to stock market prediction systems and medical image analysis tools. I’m also skilled in data analysis, using statistical methods and machine learning to extract meaningful insights.
+
 > I'm passionate about exploring the intersections of AI, Computer Vision, generative AI, Large Language Models, and data analysis as I start my career in these exciting fields.
+
 > You can reach me at aliyaser.ma1@gmail.com
+
 > You can also connect with me on [LinkedIn](https://www.linkedin.com/in/ali-mela-ali/)
 
 
