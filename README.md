@@ -10,6 +10,7 @@
 ## 2024
 
 - [GenAI Web-Scrape BBC Title Generator](www.google.ae), An Advanced Seq-to-Seq Model Enhanced with Web Scraping to Generate More Accurate and Captivating Article Titles.
+- [S&P 500 Price Movement Prediction](www.google.ae), Exploring Various Machine Learning and Deep Learning Approaches to Predict Future Stock Market Trends.
 - [Cancer & COVID Detection via CNN](www.google.ae), Harnessing Convolutional Neural Networks to Analyze X-rays for Accurate Cancer and COVID Detection.
 - [Dubai Property Nearest Metro Prediction](www.google.ae), Estimating the Closest Metro Stations and Visualizing Properties on a Detailed Dubai Map.
   
