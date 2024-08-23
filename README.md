@@ -16,6 +16,7 @@
 
 ## 2024
 
+- [FAISS-Reinforcement-Learning-Medical-Search-Engine](https://github.com/ali-ma1/FAISS-Reinforcement-Learning-Medical-Search-Engine), A sophisticated search engine for medical research documents, utilizing FAISS for similarity search and UCB1 reinforcement learning for relevance optimization.
 - [GenAI Web-Scrape BBC Title Generator](https://github.com/ali-ma1/GenAI-Web-Scrape-BBC-Title-Generator), An Advanced Seq-to-Seq Model Enhanced with Web Scraping to Generate More Accurate and Captivating Article Titles.
 - [S&P 500 Price Movement Prediction](https://github.com/ali-ma1/SP500-Price-Movement-Prediction), Exploring Various Machine Learning and Deep Learning Approaches to Predict Future Stock Market Trends.
 - [Cancer & COVID Detection via CNN](https://github.com/ali-ma1/Cancer-COVID-Detection-via-CNN), Harnessing Convolutional Neural Networks to Analyze X-rays for Accurate Cancer and COVID Detection.
