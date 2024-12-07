@@ -21,7 +21,8 @@
 - [S&P 500 Price Movement Prediction](https://github.com/ali-ma1/SP500-Price-Movement-Prediction), Exploring Various Machine Learning and Deep Learning Approaches to Predict Future Stock Market Trends.
 - [Cancer & COVID Detection via CNN](https://github.com/ali-ma1/Cancer-COVID-Detection-via-CNN), Harnessing Convolutional Neural Networks to Analyze X-rays for Accurate Cancer and COVID Detection.
 - [Dubai Property Nearest Metro Prediction](https://github.com/ali-ma1/Dubai-Property-Nearest-Metro-Prediction), Estimating the Closest Metro Stations and Visualizing Properties on a Detailed Dubai Map.
-  
+- [Efficient Data Stream Anomaly Detection System](https://github.com/ali-ma1/Data-Stream-Anomaly-Detection-System), Detecting anomalies in real-time data streams using a Z-Score-based approach with dynamic thresholds, optimized for evolving patterns and robust visualization tools.
+
 ## 2023
 
 - [VirtuFit Capstone AI Application](https://github.com/ali-ma1/VirtuFit-Capstone-AI-Application), Utilizing NLP and Chatbot Technology to Create Personalized Fitness Plans, with Real-Time Form Monitoring Using Advanced Joint and Limb Detection.
