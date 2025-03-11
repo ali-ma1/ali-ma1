@@ -14,6 +14,10 @@
 
 # Major Projects So Far
 
+## 2025
+
+- [CV Analyzer AI](https://github.com/ali-ma1/CV-Analyzer-AI), A robust AI-powered system for extracting, structuring, and analyzing resumes, leveraging cutting-edge APIs such as Azure Cognitive Services for OCR and OpenAI for conversational AI and advanced resume analysis.
+
 ## 2024
 
 - [FAISS-Reinforcement-Learning-Medical-Search-Engine](https://github.com/ali-ma1/FAISS-Reinforcement-Learning-Medical-Search-Engine), A sophisticated search engine for medical research documents, utilizing FAISS for similarity search and UCB1 reinforcement learning for relevance optimization.
