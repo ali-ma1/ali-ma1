@@ -16,6 +16,7 @@
 
 ## 2025
 
+- [AI Image Detector](https://github.com/ali-ma1/AI-Image-Detector), A deep learning model using CoAtNet-2 to classify AI-generated vs real images with near-perfect accuracy, featuring custom datasets, advanced augmentations, and mixed precision training.
 - [CV Analyzer AI](https://github.com/ali-ma1/CV-Analyzer-AI), A robust AI-powered system for extracting, structuring, and analyzing resumes, leveraging cutting-edge APIs such as Azure Cognitive Services for OCR and OpenAI for conversational AI and advanced resume analysis.
 
 ## 2024
